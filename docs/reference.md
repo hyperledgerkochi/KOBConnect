@@ -1,3 +1,0 @@
-- [Hyperledger Indy, Aries](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS172x+3T2019/home)
-- [W3.org](https://www.w3.org)
-- [Hyperledger/Aries mobile agent](https://github.com/hyperledger/aries-mobileagent-xamarin.git)
